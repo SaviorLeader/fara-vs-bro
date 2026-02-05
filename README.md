@@ -3,11 +3,11 @@ Simple Python Battle Game
 Bu layihə Python-da yazılmış sadə döyüş simulyasiyasıdır.
 İki fərqli xarakter (Warrior və Mage) bir-biri ilə raundlar üzrə döyüşür və onlardan biri ölənə qədər oyun davam edir.
 
-Xüsusiyyətlər
+ Xüsusiyyətlər
 
 OOP (Object-Oriented Programming) istifadə olunur
 
-Xarakterlərin:
+ Xarakterlərin:
 
 level
 
@@ -15,7 +15,7 @@ health
 
 damage
 
-Raund sistemi
+ Raund sistemi
 
 Avtomatik döyüş (while loop ilə)
 
@@ -28,7 +28,7 @@ Fara → Warrior
 Bro → Mage
 
 Hər bir xarakterin gücü level-ə görə artır.
-
+ 
  Necə işləyir?
 
 Oyun 1-ci raunddan başlayır
@@ -43,7 +43,3 @@ Xarakterlərdən birinin health-i 0 və ya aşağı düşəndə döyüş bitir
 
 Kodun işə salınması
 python main.py
-
-İstifadə olunan texnologiya
-
-Python 3.x
