@@ -48,6 +48,4 @@ python main.py
 
 Python 3.x
 
-README-ni ingilis dilində
-
-ya da daha professional GitHub stil
+ya da daha professional GitHub sti
