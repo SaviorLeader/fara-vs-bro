@@ -47,5 +47,3 @@ python main.py
 İstifadə olunan texnologiya
 
 Python 3.x
-
-ya da daha professional GitHub sti
